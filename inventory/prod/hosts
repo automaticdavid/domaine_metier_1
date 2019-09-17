@@ -4,11 +4,6 @@ ec2-34-250-242-161.eu-west-1.compute.amazonaws.com
 ec2-34-254-100-207.eu-west-1.compute.amazonaws.com
 ec2-52-16-131-149.eu-west-1.compute.amazonaws.com
 
-[services:children]
-service_1
-service_2
-service_3
-
 [service_1]
 ec2-54-77-67-122.eu-west-1.compute.amazonaws.com
 
