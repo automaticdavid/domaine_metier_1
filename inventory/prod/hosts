@@ -1,8 +1,8 @@
 [domaine_1]
-ec2-54-154-216-14.eu-west-1.compute.amazonaws.com
-ec2-3-248-213-110.eu-west-1.compute.amazonaws.com
-ec2-34-243-95-154.eu-west-1.compute.amazonaws.com
-ec2-54-154-186-37.eu-west-1.compute.amazonaws.com
+ec2-54-77-67-122.eu-west-1.compute.amazonaws.com
+ec2-34-250-242-161.eu-west-1.compute.amazonaws.com
+ec2-34-254-100-207.eu-west-1.compute.amazonaws.com
+ec2-52-16-131-149.eu-west-1.compute.amazonaws.com
 
 [services:children]
 service_1
@@ -10,27 +10,29 @@ service_2
 service_3
 
 [service_1]
-ec2-54-154-216-14.eu-west-1.compute.amazonaws.com
+ec2-54-77-67-122.eu-west-1.compute.amazonaws.com
 
 [service_2]
-ec2-3-248-213-110.eu-west-1.compute.amazonaws.com
+ec2-34-250-242-161.eu-west-1.compute.amazonaws.com
 
 [service_3]
-ec2-34-243-95-154.eu-west-1.compute.amazonaws.com
-ec2-54-154-186-37.eu-west-1.compute.amazonaws.com
+ec2-34-254-100-207.eu-west-1.compute.amazonaws.com
+ec2-52-16-131-149.eu-west-1.compute.amazonaws.com
 
 [jboss_eap]
-ec2-54-154-216-14.eu-west-1.compute.amazonaws.com
-ec2-3-248-213-110.eu-west-1.compute.amazonaws.com
+ec2-54-77-67-122.eu-west-1.compute.amazonaws.com
+ec2-34-250-242-161.eu-west-1.compute.amazonaws.com
 
 [apache]
-ec2-34-243-95-154.eu-west-1.compute.amazonaws.com
+ec2-34-254-100-207.eu-west-1.compute.amazonaws.com
 
 [nginx]
-ec2-34-243-95-154.eu-west-1.compute.amazonaws.com
+ec2-34-254-100-207.eu-west-1.compute.amazonaws.com
 
 [redis]
-ec2-54-154-216-14.eu-west-1.compute.amazonaws.com
-ec2-54-154-186-37.eu-west-1.compute.amazonaws.com
+ec2-54-77-67-122.eu-west-1.compute.amazonaws.com
+ec2-52-16-131-149.eu-west-1.compute.amazonaws.com
+
+
 
 
